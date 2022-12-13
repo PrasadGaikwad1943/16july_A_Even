@@ -15,7 +15,8 @@ public class BaseNew
    {
 	   System.setProperty("webdriver.chrome.driver","C:\\Automation Testing & Manual Testing\\Selenuim  file\\chromedriver.exe"); 
 	  driver=new ChromeDriver(); 
-	  
+
+
       driver.manage().window().maximize();
 	
  
